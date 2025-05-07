@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo Tableau3/1.0.0": {
+        "runtime": {
+          "Exo Tableau3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo Tableau3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
