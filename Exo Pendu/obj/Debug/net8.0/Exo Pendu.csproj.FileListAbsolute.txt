@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\bin\Debug\net8.0\Exo Pendu.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\bin\Debug\net8.0\Exo Pendu.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\bin\Debug\net8.0\Exo Pendu.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\bin\Debug\net8.0\Exo Pendu.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\bin\Debug\net8.0\Exo Pendu.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\refint\Exo Pendu.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\Exo Pendu.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Pendu\obj\Debug\net8.0\ref\Exo Pendu.dll

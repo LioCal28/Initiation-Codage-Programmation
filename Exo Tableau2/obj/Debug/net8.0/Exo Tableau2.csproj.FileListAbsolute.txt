@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\bin\Debug\net8.0\Exo Tableau2.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\bin\Debug\net8.0\Exo Tableau2.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\bin\Debug\net8.0\Exo Tableau2.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\bin\Debug\net8.0\Exo Tableau2.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\bin\Debug\net8.0\Exo Tableau2.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\refint\Exo Tableau2.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\Exo Tableau2.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau2\obj\Debug\net8.0\ref\Exo Tableau2.dll
