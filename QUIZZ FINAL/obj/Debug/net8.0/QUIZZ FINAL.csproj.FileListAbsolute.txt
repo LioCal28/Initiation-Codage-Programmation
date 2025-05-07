@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\bin\Debug\net8.0\QUIZZ FINAL.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\bin\Debug\net8.0\QUIZZ FINAL.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\bin\Debug\net8.0\QUIZZ FINAL.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\bin\Debug\net8.0\QUIZZ FINAL.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\bin\Debug\net8.0\QUIZZ FINAL.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\refint\QUIZZ FINAL.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\QUIZZ FINAL.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\QUIZZ FINAL\obj\Debug\net8.0\ref\QUIZZ FINAL.dll
