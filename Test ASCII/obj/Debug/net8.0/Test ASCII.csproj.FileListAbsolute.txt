@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\bin\Debug\net8.0\Test ASCII.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\bin\Debug\net8.0\Test ASCII.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\bin\Debug\net8.0\Test ASCII.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\bin\Debug\net8.0\Test ASCII.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\bin\Debug\net8.0\Test ASCII.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\refint\Test ASCII.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\Test ASCII.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Test ASCII\obj\Debug\net8.0\ref\Test ASCII.dll
