@@ -1,0 +1,4 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau5 bis\obj\Debug\net8.0\Exo Tableau5 bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau5 bis\obj\Debug\net8.0\Exo Tableau5 bis.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau5 bis\obj\Debug\net8.0\Exo Tableau5 bis.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo Tableau5 bis\obj\Debug\net8.0\Exo Tableau5 bis.csproj.CoreCompileInputs.cache
