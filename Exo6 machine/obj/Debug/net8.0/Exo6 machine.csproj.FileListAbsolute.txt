@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\bin\Debug\net8.0\Exo6 machine.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\bin\Debug\net8.0\Exo6 machine.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\bin\Debug\net8.0\Exo6 machine.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\bin\Debug\net8.0\Exo6 machine.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\bin\Debug\net8.0\Exo6 machine.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\refint\Exo6 machine.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\Exo6 machine.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 machine\obj\Debug\net8.0\ref\Exo6 machine.dll

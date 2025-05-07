@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\bin\Debug\net8.0\Ex07 Jeu Random.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\bin\Debug\net8.0\Ex07 Jeu Random.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\bin\Debug\net8.0\Ex07 Jeu Random.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\bin\Debug\net8.0\Ex07 Jeu Random.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\bin\Debug\net8.0\Ex07 Jeu Random.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\refint\Ex07 Jeu Random.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\Ex07 Jeu Random.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Ex07 Jeu Random\obj\Debug\net8.0\ref\Ex07 Jeu Random.dll

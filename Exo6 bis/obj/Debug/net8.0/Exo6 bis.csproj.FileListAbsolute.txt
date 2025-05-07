@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\bin\Debug\net8.0\Exo6 bis.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\bin\Debug\net8.0\Exo6 bis.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\bin\Debug\net8.0\Exo6 bis.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\bin\Debug\net8.0\Exo6 bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\bin\Debug\net8.0\Exo6 bis.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\refint\Exo6 bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\Exo6 bis.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Exo6 bis\obj\Debug\net8.0\ref\Exo6 bis.dll
