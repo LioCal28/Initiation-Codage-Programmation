@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\bin\Debug\net8.0\Quizz bis.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\bin\Debug\net8.0\Quizz bis.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\bin\Debug\net8.0\Quizz bis.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\bin\Debug\net8.0\Quizz bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\bin\Debug\net8.0\Quizz bis.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\refint\Quizz bis.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\Quizz bis.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz bis\obj\Debug\net8.0\ref\Quizz bis.dll

@@ -1,0 +1,14 @@
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\bin\Debug\net8.0\Quizz.exe
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\bin\Debug\net8.0\Quizz.deps.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\bin\Debug\net8.0\Quizz.runtimeconfig.json
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\bin\Debug\net8.0\Quizz.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\bin\Debug\net8.0\Quizz.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.AssemblyInfoInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.AssemblyInfo.cs
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.csproj.CoreCompileInputs.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\refint\Quizz.dll
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.pdb
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\Quizz.genruntimeconfig.cache
+C:\Users\l.bleus\Desktop\Algo\Algo\Quizz\obj\Debug\net8.0\ref\Quizz.dll
